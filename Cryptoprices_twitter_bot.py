@@ -1,5 +1,5 @@
 """
-File: post_tweet.py
+File: Cryptoprices_twitter_bot.py
 ---------------------------------------------
 This program gets prices from
 Bitso website public api and post them
